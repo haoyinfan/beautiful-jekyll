@@ -120,7 +120,7 @@ url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 # disqus: ""
 
 # If you want to use JustComments fill with the API Key
-#just-comments: "ABCD-EFGH-IJKL"
+##just-comments: "ABCD-EFGH-IJKL"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
